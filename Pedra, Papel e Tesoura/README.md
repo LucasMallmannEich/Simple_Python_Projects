@@ -6,7 +6,7 @@ Elaborar um código que simule um jogo de pedra, papel e tesoura entre o usuári
 
 Resolução:
 
-Em primeiro lugar, importei a biblioteca "random".   
+Em primeiro lugar, importei o módulo "random".   
 Após isso, defini uma lista chamada "options", que contém a palavra "pedra", "papel" e "tesoura".   
 A variável "jogada_humana" (string) é informada pelo usuário do código.  
 A variável "jogada_maquina" (string) é escolhida, de acordo com os valores presentes na lista "options", de forma aleatória pelo programa.   
