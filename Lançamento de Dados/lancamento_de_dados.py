@@ -1,4 +1,4 @@
-# 32 - Faça um programa que simula o lançamento de dois dados, d1 e d2, n vezes.
+# Faça um programa que simula o lançamento de dois dados, d1 e d2, n vezes.
 # E tem como saída o número de cada dado em relação entre eles (>, <, =) de cada lançamento.
 
 import random
