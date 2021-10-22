@@ -1,1 +1,1 @@
-Neste repositório, publico desafios da linguagem Python relacionados à utilização de conjuntos (Listas, Tuplas, Dicionários, Sets).
+Neste repositório, publico desafios da linguagem Python relacionados à utilização de coleções (Listas, Tuplas, Dicionários, Sets).
