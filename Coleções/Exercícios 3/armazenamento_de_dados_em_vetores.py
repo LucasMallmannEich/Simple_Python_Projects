@@ -6,7 +6,7 @@ conjunto1 = []
 conjunto2 = []
 
 while counter != 10:
-    conjunto = float(input('Digite um conjunto de números reais: '))
+    conjunto = float(input('Digite um número real: '))
     conjunto1.append(conjunto)
     counter += 1
 
