@@ -14,6 +14,6 @@ def quadrado_perfeito(numero):
     return ' O número não pode ser negativo para ser testado, pois não existem quadrados perfeitos negativos.'
 
 
-num_4 = int(input('Digite um número inteiro não negativo: '))
+num = int(input('Digite um número inteiro não negativo: '))
 
-print(quadrado_perfeito(num_4))
+print(quadrado_perfeito(num))
