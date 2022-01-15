@@ -2,7 +2,7 @@ Utilização de Estruturas Condicionais em Python
 
 Proposta:
 
-A proposta do desafio já está inserida no código.
+Faça um programa que receba dois números e mostre qual deles é o maior.
 
 Resolução:
 
