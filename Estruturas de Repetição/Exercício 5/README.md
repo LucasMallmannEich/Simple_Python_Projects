@@ -2,7 +2,7 @@ Utilizando Ranges em Estruturas de Repetição
 
 Proposta:
 
-A proposta do desafio da linguagem Python já está comentada no topo do código.
+Faça um programa que peça ao usuário para digitar 10 valores e some-os.
 
 Resolução: 
 
