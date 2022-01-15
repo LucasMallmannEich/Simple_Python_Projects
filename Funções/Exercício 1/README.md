@@ -2,7 +2,7 @@ Utilizando Funções em Python
 
 Proposta:
 
-A proposta do desafio já está comentada no topo do código.
+Crie uma função que recebe como parâmetro um número inteiro e devolve o seu dobro.
 
 Resolução:
 
