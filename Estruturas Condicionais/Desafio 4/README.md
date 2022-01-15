@@ -2,7 +2,9 @@ Utilização de Estruturas Condicionais em Python
 
 Proposta:
 
-A proposta do desafio já está inserida no texto.
+Faça um programa que leia um número e, caso ele seja positivo, calcule e mostre:            
+- o número digitado ao quadrado;            
+- a raiz quadrada do número digitado.             
 
 Resolução:
 
