@@ -2,7 +2,8 @@ Utilizando Listas em Python
 
 Proposta:
 
-A proposta do desafio já está comentada no topo do código.  
+Ler um conjunto de números reais, armazenando-o em vetor e calcular o quadrado dos componentes deste vetor.                
+Assim, armazenando o resultado em outro vetor. Os conjuntos têm 10 elementos cada. Imprimir todos os conjuntos.           
 
 Resolução:
 
