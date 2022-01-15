@@ -2,7 +2,8 @@ Utilização de Estruturas de Repetição em Python
 
 Proposta:
 
-A proposta do exercício já está comentada no topo do código.
+Faça um algoritmo utilizando o comando while que mostra uma contagem regressiva na tela.                     
+Iniciando em 10 e acabando em 0. Mostrar uma mensagem "FIM!" após a contagem.             
 
 Resolução:
 
