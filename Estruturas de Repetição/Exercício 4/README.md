@@ -2,7 +2,8 @@ Utilizando Ranges em Estruturas de Repetição
 
 Proposta:
 
-A proposta do desafio da linguagem Python já está comentada no topo do código.   
+Escreva um programa que declare um inteiro, inicialize-o com 0, e incremente-o de 1000 em 1000.                    
+Imprimindo seu valor na tela, até que seu valor seja 100000(cem mil).                 
 
 Resolução:
 
