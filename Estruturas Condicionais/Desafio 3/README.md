@@ -2,7 +2,7 @@ Utilizando Estruturas Condicionais
 
 Proposta: 
 
-A proposta do desafio está inserida, sob a forma de comentários, no topo do código.
+Leia um número real. Se o número for positivo imprima a raiz quadrada. Do contrário, imprima o número ao quadrado.
 
 Resolução:
 
