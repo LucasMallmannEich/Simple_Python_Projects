@@ -2,7 +2,8 @@ Utilização de Estruturas Condicionais em Python
 
 Proposta:
 
-A proposta do desafio já está inserida no texto.
+Leia um número fornecido pelo usuário. Se esse número for positivo, calcule a raiz qudrada do número.                 
+Se o número for negativo, mostre uma mensagem dizendo que o número é invalido.                        
 
 Resolução:
 
