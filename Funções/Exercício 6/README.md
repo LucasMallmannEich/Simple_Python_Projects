@@ -2,7 +2,8 @@ Trabalhando com Funções em Python
 
 Proposta:
 
-A proposta do desafio já está comentada no topo do código.
+Faça uma função que receba 3 números inteiros como parâmetro, representando horas, minutos e segundos.            
+Você deve convertê-los em segundos.            
 
 Resolução:
 
