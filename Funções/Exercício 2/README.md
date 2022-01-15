@@ -2,7 +2,8 @@ Utilizando Funções em Python
 
 Proposta:
 
-A proposta do desafio já está inserida no topo do código.
+Faça uma função que receba a data atual (dia, mês e ano em inteiro) e exiba-a na tela no formato textual por extenso.                  
+Exemplo: Data: 01/01/2000, Imprimir: 1 de Janeiro de 2000.               
 
 Resolução:
 
