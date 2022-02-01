@@ -1,4 +1,4 @@
-# Faça um programa que receba um número inteiro e verifique se este número é par ou ímpar.
+# 5 - Faça um programa que receba um número inteiro e verifique se este número é par ou ímpar.
 
 numero = int(input('Digite um número inteiro:  '))
 resto = numero % 2
