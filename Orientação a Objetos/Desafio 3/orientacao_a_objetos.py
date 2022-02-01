@@ -36,4 +36,3 @@ class Quadrado:
 quadrado1 = Quadrado(12)
 
 quadrado1.imprimir()  # OUTPUT: Lado: 12 m 	 Área: 144 m² 	 Perímetro: 48 m
-ori
