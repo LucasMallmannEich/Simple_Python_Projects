@@ -17,9 +17,11 @@ with open('arq.txt', 'a') as arquivo:
 with open('arq.txt', 'r') as arquivo:
     lista = arquivo.readlines()
     if len(lista) != 0:
-        for char in lista[0]:
-            print(char)
+        for linha in lista:
+            for char in linha:
+                print(char)
         print(f' Todos os caracteres armazenados: {lista}.')
 
     else:
         print(' Você não digitou nenhum número.')
+
