@@ -13,3 +13,5 @@ Utilizei um "loop for", para "varrer" todos os números inteiros entre o 2 e o "
 Se o número do "loop for" for divisível pelo "numero", a variável "soma" será incrementada em 1 unidade.    
 Se a "soma" for diferente de zero, o numero informado pelo usuário não é primo.   
 Caso contrário, o número é primo.
+Após isso, utilizei um "loop while" para captar os números informados pelo usuário.  
+Apenas quando o usuário digitar o número 0 (zero) que o programa irá parar sua execução.
