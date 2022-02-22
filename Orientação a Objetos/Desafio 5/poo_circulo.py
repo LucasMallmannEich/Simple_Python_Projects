@@ -15,12 +15,12 @@ class Circulo:
 
     # Método construtor.
     def __init__(self, raio):
-        if type(raio) == float or type(raio) == int and raio >= 0:
+        if type(raio) == int or type(raio) == float:
             self.__raio = raio
+            self.__area = Circulo.calcular_area(self)
+            self.__perimetro = Circulo.calcular_perimetro(self)
         else:
-            print('Você deveria ter digitado um valor numérico não negativo.')
-        self.__area = Circulo.calcular_area(self)
-        self.__perimetro = Circulo.calcular_perimetro(self)
+            print('Você deveria ter digitado um valor numérico.')
 
     # Método "calcular_area".
     def calcular_area(self):
@@ -32,7 +32,20 @@ class Circulo:
 
     # Método "imprimir".
     def imprimir(self):
-        print(f' Raio: {self.__raio:.2f} m \t Área: {self.__area:.2f} m² \t Perímetro: {self.__perimetro:.2f} m')
+        if self.__raio is True or self.__raio is False:
+            if self.__raio >= 0 and (type(self.__raio) == int or type(self.__raio) == float):
+                print(f'Raio: {self.__raio:.2f} m \t Área: {self.__area:.2f} m² \t Perímetro: {self.__perimetro:.2f} m')
+            else:
+                print('Você deveria ter digitado um raio com valor não negativo.')
+        else:
+            print('Você deveria ter digitado um raio com valor não negativo.')
+
+
+# Testando.
+circulo1 = Circulo(4.5)
+
+circulo1.imprimir()  # OUTPUT: Raio: 4.50 m 	 Área: 44.41 m² 	 Perímetro: 28.27 m
+
 
 
 # Testando.
