@@ -15,7 +15,7 @@ else:
     if numero > 0:
         # Caso o número informado for positivo, o programa calcula o logaritmo desse número.
         logaritmo = math.log(numero)
-        print(f' O logaritmo deste número é: {logaritmo}.\n')
+        print(f' O logaritmo desse número é: {logaritmo}.\n')
     elif numero < 0:
         # Caso o número informado for negativo, o programa imprime a seguinte mensagem: "Número inválido.".
         print(f' Número inválido.\n')
