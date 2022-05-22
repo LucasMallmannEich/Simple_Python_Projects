@@ -1,4 +1,4 @@
-Usando Matrizes em Python
+Utilizando Matrizes em Python
 
 Proposta:
 - Declare uma matriz 5 x 5;
