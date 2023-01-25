@@ -1,4 +1,4 @@
-Média Ponderada de Provas
+Média Ponderada de Provas utilizando Estruturas Conidicionais
 
 Proposta:
    - Faça um algoritmo que calcule a média ponderada das notas de 3 provas.
