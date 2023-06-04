@@ -1,0 +1,11 @@
+Cidade:                                 População:
+Novo Hamburgo                           0247032
+Paris                                   2161000
+Augsburg                                0295135
+Munique                                 1472000
+Roma                                    2873000
+Belo Horizonte                          2722000
+Dois Irmãos                             0033119
+Morro Reuter                            0006570
+Porto Alegre                            1492000
+Zurique                                 0402762
