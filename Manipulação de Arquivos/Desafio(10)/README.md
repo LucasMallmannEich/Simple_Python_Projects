@@ -6,4 +6,4 @@ linha o nome de uma cidade (ocupando 40 caracteres) e o seu número de habitante
 entrada e gerar um arquivo de saída onde aparece o nome da cidade mais populosa seguida pelo seu número de habitantes.
 
 Considerações:
-  - Coloquei dois arquivos ".txt" em anexo, como forma de exemplificar o conteúdo esperado no arquivo de entrada e saída de texto.
+  - Coloquei dois arquivos ".txt" em anexo, como forma de exemplificar o conteúdo esperado no arquivo de entrada ("cidades.txt") e saída de texto ("cidades2.txt").
