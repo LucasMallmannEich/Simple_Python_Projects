@@ -1,6 +1,5 @@
 # Using Lists
 
 Proposal:   
-Make a program that reads a list containing 10 numbers.  
-Read a number x.  
-Count the multiple values of an integer number x in a list and show them in the screem. 
+- Make a list containing 50 elements and having its values following the rule: (i + 5 * i) % (i + 1).         
+- Being "i" the element position in the list. After that, display the list on screen.
