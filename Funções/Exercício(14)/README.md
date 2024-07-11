@@ -1,10 +1,12 @@
-###Car Consumption Function
+### Car Consumption Function
 
-Purpose:
+**Purpose:**
 
- - Make a function that receives a distance in Km and the amount of gas liters used by a car.          
- - Calculate the consumpiton Km/l and write a message acording the table below:        
-    CONSUMPTION             (Km/l)          MESSAGE       
-     less than                8           Sell the car!         
-      between               8 e 14          Economic!        
-    bigger than               12         Very economic!        
+- Make a function that receives a distance in Km and the amount of gas liters used by a car.
+- Calculate the consumption Km/l and write a message according to the table below:
+
+| CONSUMPTION (Km/l) | MESSAGE         |
+|--------------------|-----------------|
+| less than 8        | Sell the car!   |
+| between 8 and 14   | Economic!       |
+| more than 12       | Very economic!  |
