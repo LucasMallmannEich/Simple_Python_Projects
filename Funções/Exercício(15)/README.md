@@ -1,4 +1,4 @@
-### Analyzing Triangles with Functions
+## Analyzing Triangles with Functions
 
 Purpose:
   - Make a program that will receive 3 values (they have to be bigger than zero).         
